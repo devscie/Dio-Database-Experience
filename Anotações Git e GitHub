@@ -1,0 +1,94 @@
+# Introdução ao Git
+
+Untracked >>> Unmodified >>> Modified >>> Stageg
+
+git config --global --unset user.email "email github"
+git config --global --unset user.nickname "nickname github"
+
+echo "MENSAGEM" > README.md
+git init
+git add README.md
+git commit -m "MENSAGEM"
+git remote add origin URL
+git push -u origin master
+
+--git branch -M mainREADME.md
+
+Modified >>> Stageg
+
+git add nomeArquivo nomePasta
+git add *
+git add .
+
+Stageg >>> Unstage
+
+git restore nomeArquivo nomePasta --defazer modificações diretório
+
+git restore --staged nomeArquivo nomePasta --defazer modificações para unstage
+
+Stageg >>> Unmodified
+
+git commit -m "msg..."
+
+git push origin master, main
+
+# Introdução ao GitHub
+
+git config --global --unset user.email
+
+git config --global --unset user.email "email github"
+git config --global --unset user.nickname "nickname github"
+
+git config --list
+
+## criar repositório
+
+* profile >>> your repository >>> new
+* repository
+* description
+* initialize this repository whith a README
+
+## apontar repositório
+
+git remote add origin URL
+git push -u origin master
+
+### exibir lista de pastas
+ls
+
+### exibir lista de pastas ocultas
+ls -a
+
+### adicionar pasta
+mkdir nomePasta
+
+### mover arquivo
+mv nomeArquivo ./nomePastaDesejada/
+
+### acessar pasta
+cd nomePasta
+
+### voltar pastaAnterior
+cd ..
+
+# Conflitos GitHub
+
+* código com edição na mesma linha
+* códilo do repositório local defasado
+
+git push origin main --conflito
+
+git pull origin main --merge conflict...
+
+## editar arquivo
+
+git add *
+git commit -m "MENSAGEM"
+git push origin main
+
+## baixar repositório 
+
+* clonar com https
+
+git clone https
+
