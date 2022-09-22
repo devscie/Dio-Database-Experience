@@ -1,0 +1,23 @@
+Quiz - Contextualização do Cenário na Área de Banco de Dados
+
+SGBDs no modelo relacional suportam a grande maioria dos cenários de gerenciamento de dados. Contudo, há situações de alta demanda (além da capacidade atual do sistema) que ocorrem em momentos pontuais dentro do escopo dos dados. Um exemplo desse evento é a Black Friday. Neste sentido, qual dos cenários abaixo é o mais indicado?
+
+* Escalonar horizontalmente, aproveitando tecnologias emergentes como SGBDs distribuídos e/ou NoSQL. Sistemas desse tipo conseguem lidar com súbito aumento de carga.
+
+Com o passar dos anos a quantidade e estrutura dos dados evoluíram culminando no surgimento de um novo paradigma. Com essa evolução foram definidos novos termos, o Big Data e o High Performance Computing - HPC. Cada área possui suas particularidades, contudo ambos trabalham em um cenário considerando 3 fatores. Quais são estes fatores?
+
+* Grande Volume de dados, Heterogeneidade e velocidade
+
+Dentre as etapas de definição de um SGBD e seus banco de dados. Qual destas etapas está relacionada a implementação da estrutura e inserção dos dados no BD?
+
+* Construção
+
+Algumas características são inerentes ao sistema de gerenciamento de banco de dados. Qual dessas características está relacionada à representação do contexto em que está inserido os dados?
+
+* Mini-mundo
+
+O termo banco de dados pode ser utilizado de maneira mais direcionada. Além disso, muitas vezes como um sinônimo de SGBDs - sistema de banco de dados. Contudo, seu significado é mais generalista não se atendendo apenas ao sistema que o gerencia. Dessa forma, escolha dentre as afirmações, sobre banco de dados, escolha a definição geral CORRETA.
+
+* Podemos considerar uma coleção de palavras, que dentre elas há relacionamentos entre dados, constituindo então um banco de dados.
+
+
