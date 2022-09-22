@@ -1,0 +1,31 @@
+Quiz - Explorando a Abordagem de SGBDs
+
+Na abordagem tradicional, tanto o modelo quanto o gerenciamento dos dados estão contidos dentro do programa. Dessa forma, uma eventual modificação na estrutura acarretaria em problemas de reescrita de códigos. Além disso, outros problemas podem ser encontrados.
+
+* Redundância e repetição de esforço
+
+Dentre os papéis de um SGBD, o mesmo deve ser capaz de controlar acesso concorrente de múltiplos usuários. Além disso, estes múltiplos usuários podem ter contextos e perfis de acesso distintos relacionados aos dados. Dessa forma, quais características da arquitetura do SGBD estão diretamente ligadas ao cenário supracitado?
+
+* Table view e Controle de concorrência
+
+Dentre as atribuições do administrador de banco de dados, qual não pertence a este escopo?
+
+* Levantamento de dados e requisitos
+
+A natureza auto-descritiva do SGBD está ligada a dois componentes de seu sistema. Nestes componentes são definidas as informações relacionadas à estrutura dos dados, assim como a estrutura propriamente dita. Dentre as opções abaixo, qual está relacionada às definições anteriormente citadas?
+
+* Metadados e esquema
+
+Os usuários finais são o foco e propósito final de um SGDB. Dentre as categorias de  usuários finais, qual destes representa a maioria dos acessos?
+
+* Naives (ingênuos)
+
+Os SGBDs - sistemas de gerenciamento de banco de dados - são softwares de propósito geral que visam manter e gerenciar dados que serão utilizados por diversos usuários. Dentre as principais características associadas a abordagem de SGBDs, qual delas está diretamente relacionada ao isolamento de dados e programas?
+
+* Abstração
+
+Os SGBDs podem variar de um contexto local, onde existe apenas um usuário mantenedor, à uma organização empresarial com milhares de acessos, como acontece em sistemas voltados para e-commerce. Sendo assim, os papéis dentro  do contexto de BDs são os mesmos. O que varia é a quantidade de pessoas que o executa. Podemos definir os atores relacionados diretamente ao contexto de SGBDS, são estes:
+
+* Designer, admin, e usuários finais
+
+
