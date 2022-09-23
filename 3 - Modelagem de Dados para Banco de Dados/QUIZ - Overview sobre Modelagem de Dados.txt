@@ -1,0 +1,17 @@
+QUIZ - Overview sobre Modelagem de Dados
+
+O objetivo da modelagem consiste no melhor entendimento do sistema, ou fenômeno. Dessa forma, a modelagem está presente em diversos contextos. Assim, o contexto de modelagem voltada para SGBDs está contemplado em:
+
+* Modelagem de dados
+
+Existem etapas deste a definição do contexto de mundo real a ser representado, até a implementação do SGBD e inserção dos dados nas tabelas. Dessa forma, escolha dentre as opções qual a ordem correta de execução das etapas?
+
+* Definição do minimundo, Modelagem de alto nível, Criação do esquema e implementação do SGBD
+
+Das linguagens de definição e manipulação do SGBD, escolha a opção correta:
+
+* DDL: linguagem de definição utilizada pelos SGBDs admins
+
+Refletindo sobre as vantagens da modelagem, quais das listadas abaixo estão relacionadas à modelagem de dados?
+
+* Correta definição dos requisitos e compreensão facilitada do contexto dos dados
