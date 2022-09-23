@@ -1,0 +1,48 @@
+Modelagem de Dados para Banco de Dados
+
+mysql
+
+sudo apt-get install mysql-server
+
+sudo apt-get install mysql-client
+
+mysql --version
+
+sudo mysql_secure_installation
+>>> n
+
+sudo systemctl status mysql.service
+
+sudo mysql
+
+show databases;
+
+postgresql
+
+sudo apt-get update
+
+sudo apt-get install postgresql-14 postgresql-client-14
+
+sudo systemctl status postgresql.service
+
+criar usuario padrão:
+sudo -i -u postgres
+
+Criar tabela:
+createdb teste;
+
+Acessar tabela:
+psql teste;
+
+Apagar tabela:
+dropdb teste;
+
+Versão do Database:
+SELECT version()
+
+Exibir data:
+select current_date;
+
+Sair:
+exit
+
