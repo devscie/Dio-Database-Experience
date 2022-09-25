@@ -1,0 +1,33 @@
+Quiz - Explorando o Modelo ER – Entidade Relacionamento
+
+Sobre atributo e conjunto de valores, escolha a opção incorreta.
+
+* Os atributos de identificação de uma entidade fraca são representados por uma elipse dupla
+
+Dentro do diagrama ER existem alguns componentes relacionados ao projeto conceitual. Qual destes não pertence a esta fase?
+
+* Tabela
+
+Dentre as definições abaixo, qual a CORRETA?
+
+* Uma entidade fraca está diretamente ligada à entidade forte por meio de uma relação de dependência.
+
+Diversos conceitos permeiam a fase inicial do desenvolvimento de banco de dados. Contudo, alguns apesar de estarem relacionados a BDs não estão contemplados dentro do projeto conceitual. Sendo assim, qual dos conceitos não está relacionado ao projeto conceitual.
+
+* Chave primária
+
+Os atributos são os elementos que definem as propriedades de um objeto do mundo real. Dentro do modelo ER eles são classificados de acordo com suas características. Sendo assim, escolha dentre as opções abaixo qual não pertence a classificação dos atributos?
+
+* Originados
+
+Uma das entidades contempladas no modelo ER é denominada entidade fraca. Dentre as afirmações escolha a CORRETA.
+
+* A existência da entidade fraca está atrelada a existência da entidade forte
+
+Suponha o cenário de eleição a ser modelado. Existem diversos candidatos e as pessoas que devem votar nestes candidatos. Dessa forma, suponha as entidades votante (pessoa) e candidatos. Como o relacionamento deve ser construído para estas duas entidades? Escolha dentre as afirmações qual satisfaz esse cenário modelado e que possa ser modelado por qualquer ferramenta de designer.
+
+* Votação compõem um relacionamento N:M entre as entidades. A restrição de quantidade de votos por categoria fica a cargo da aplicação.
+
+Os relacionamentos são componentes que em sua definição interligam entidades. Dessa forma, assinale a alternativa INCORRETA.
+
+* Os relacionamentos de alta ordem são compostos por no máximo 3 entidades
