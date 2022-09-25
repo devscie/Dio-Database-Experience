@@ -1,0 +1,21 @@
+QUIZ - Arquitetura de Banco de Dados - Formacao
+
+Eventos e tarefas realizadas pelas organizações em seu cotidiano geram dados relacionados. Estes dados geralmente estão associados a um serviço fornecido aos clientes da empresa. Na grande maioria dos casos, o modelo relacional é o suficiente para persistência e gerenciamento dos dados. Neste sentido, quais são os principais termos que definem a estrutura dos dados em um modelo relacional?
+
+* Tabela e relacionamentos
+
+O SGBD é composto por alguns componentes. Dentre eles há um em específico que mantém a estrutura das entidades, seus atributos e relacionamentos. Essa estrutura é nomeada de:
+
+* Esquema
+
+Os SGBDs representam estados de um momento específico, um snapshot. Neste caso, o que caracteriza uma mudança de estado?
+
+* Qualquer modificação nos dados de um bd de forma consistente. Portanto, uma mudança no estado deve levar a outro estado válido.
+
+No cenário pioneiro de SGBDs, o modelo utilizado pelos grandes mainframes era denominado de arquitetura centralizada. Com o advento dos pcs e diminuição de custos progressivo da tecnologia, um novo modelo passou a ser utilizado. Esse modelo pode ser constituído de duas ou três camadas. Seu objetivo é prover serviços de maneira simplificada, stateless com compatibilidade. Escolha o modelo dentre os existentes:
+
+* Cliente/servidor
+
+A arquitetura de três esquemas busca manter um isolamento entre as camadas de aplicação do usuário e a camada física do BD. Dessa forma há duas formas de isolamento encontradas nesta arquitetura. Qual delas é a mais difícil de ser implementada.
+
+* Isolamento lógico
