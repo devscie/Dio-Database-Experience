@@ -1,0 +1,23 @@
+Falando em modelagem, percebemos que existe uma inter-relação entre o desenvolvimento de BDs e de software. Isso ocorre, um dos motivos, devido a necessidade de persistir os dados que serão utilizados pela aplicação. Dessa forma, com relação a este processo escolha a opção INCORRETA das afirmações abaixo:
+
+* O projeto de aplicação não possui um equivalente no cenário de desenvolvimento de BDs. Este por outro lado, consiste em uma etapa necessária para criação do projeto físico de BDs.
+
+A modelagem de dados voltada para SGBDs está limitado pelo conceito de mundo fechado (CWA - Close World Assumption). Com relação a este conceito é INCORRETO afirmar que:
+
+* A ideia do CWA consiste em responder perguntas que extrapolam o contexto do banco de dados de forma probabilística. Neste sentido, caso haja algum dado faltante relacionado a uma pergunta, consulta ao banco, o SGBD irá determinar uma probabilidade para a resposta.
+
+O desenvolvimento de BDs consiste em um processo evolutivo e gradual. Dessa forma, podemos elencar alguns pontos de atenção deste processo. Esses pontos de atenção fomentam o processo de criação de um BD de início ao fim. Sendo assim, escolha dentre as opções abaixo qual a ordem das etapas corresponde ao processo de criação de BDs.
+
+* Definição de Requisitos, Modelo, Arquitetura e Implementação
+
+A modelagem é um processo inerente e necessário ao projeto de banco de dados. Dito isso, qual etapa dentro do projeto de banco de dados está relacionada a modelagem?
+
+* Projeto conceitual - consiste na definição dos requisitos funcionais e não-funcionais a fim de criar um esquema conceitual dos dados.
+
+A primeira fase do processo foca nas necessidades do cliente. Com isso em mente, escolha dentre as afirmações qual a CORRETA:
+
+* A primeira fase do processo de criação de BDs, projeto conceitual, foca em dois pontos quando tratamos de requisitos funcionais: coleta e análise dos dados. O objetivo aqui está na definição de requisitos, visões e perguntas a serem respondidas.
+
+O processo de criação de Banco de Dados é bem definido e consistente. Contudo, é necessário que haja flexibilidade alinhada com a objetividade neste processo. Sendo assim, escolha dentre as afirmações qual destas consiste no objetivo da modelagem.
+
+* Prover um sistema capaz de suprir as demandas de seus usuários finais.
