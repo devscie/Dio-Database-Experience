@@ -1,0 +1,35 @@
+Premissa: Levantamento de Requisitos
+
+Projeto Conceitual
+
+* O que vai ter no Banco de Dados? Esquema conceitual
+
+- Conceitos de Alto Nível
+
+Projeto Lógico
+
+* Como estruturar o Banco de Dados? Esquema lógico
+
+- Criação do Esquema Lógico
+- Instalação e Configuração do SGBD
+- Criação do Esquema no BD
+
+- Mapeado para modelo relacional: Entidades, Atributos
+
+Qual tipo de entidade? Cardinalidade? Multivalorados?
+
+Projeto Físico
+
+* Como ser implementar o Banco de Dados? Esquema físico
+
+Estrutura, índices, segurança, performace
+
+- Validação
+- Produção
+- Manutenção
+
+Integração: Implementação, validação e testes
+
+Design Conceitual ---> (Functional Analysis) ---> Data Model Mapping ---> (Application Program Design) ---> Design Physical ---> (Transation Implementatio)
+
+
