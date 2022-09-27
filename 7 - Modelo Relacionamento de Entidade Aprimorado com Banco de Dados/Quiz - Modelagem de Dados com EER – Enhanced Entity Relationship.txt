@@ -1,0 +1,35 @@
+Ao criar um esquema conceitual baseado no modelo EER sabemos que há um trade-off relacionado a especificidade da modelagem. Quanto a isso é correto afirmar que:
+
+* Na definição das subclasses e superclasse é preciso tomar cuidado para manter a acurácia ao invés da desordem.
+
+Na diagramação do modelo EER os conceitos/componentes generalização e especialização possuem a mesma representação. Contudo, apesar de interligados eles possuem uma característica que os distingue em termos de modelagem. Assinale dentre as opções qual descreve esta característica
+
+* Geralmente quando há um processo de especialização da entidade as subclasses compõem todas as subclasses necessárias para aquele contexto.
+
+Qual das opções abaixo descreve a predicated-define constraint?
+
+* Escolha da especialização a ser utilizada depende de um parâmetro. Assim, cada entidade possui um valor associado.
+
+Em que consiste a especialização em rede?
+
+* Isso ocorre quando as subclasses, especialização de uma superclasse, são ainda superclasse de outras classes.
+
+O modelo EER trouxe conceitos que provocaram a evolução do modelo ER. Dessa forma, escolha dentre os componentes abaixo, qual não faz parte do modelo ER estendido.
+
+* Overlapping
+
+Quando modelar utilizando o componente Union Type?
+
+* Quando temos uma coleção de objetos que se diferem entre si, contudo, fornecem uma representação do contexto.
+
+Qual dos pilares do paradigma de orientação à objetos está diretamente ligado ao conceito de classes e subclasses utilizado no modelo EER?
+
+* Herança
+
+Os conceitos que tornam o modelo ER estendido mais completo e portanto, mais adequando ao desenvolvimento de sistemas modernos estão relacionados à qual paradigma?
+
+* Orientação à Objeto
+
+Suponha o cenário onde temos uma restrição de especialização. Neste caso, precisamos determinar para qual subclasse será direcionada o conjunto de dados a serem persistidos. Para isso foi criada uma condição, sempre que houver um atributo “x” a persistência será realizada na subclasse “A”. Esse tipo de constraint é identificada como:
+
+* Attribute-defined specialization
