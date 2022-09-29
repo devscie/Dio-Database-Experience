@@ -1,0 +1,31 @@
+Projeto de Banco de Dados
+
+* Levantamento de Requisitos
+
+    Requisitos Funcionais o que o banco de dados precisa responder, o que precisa executar, o que precisa fazer. Requisitos não funcionais, performance, segurança.
+
+* Projeto Conceitual: Modelo ER
+
+* Projeto Lógico: Modelo Relacional
+
+Cenarios:
+
+    * Ordem de Serviço
+
+    Contexto: Dentro de uma empresa os clientes demandam ao helpdesk algumas ações, serviços, solicitações. Essas ações são convertidas em ordem de serviço, tendo um tempo associado.
+
+    Os clientes realizam um pedido. O pedido é convertido em ordem de serviço caso possa ser realizado. O técnico executa a ordem de serviço. Após sua finalização a mesma é arquivada.
+
+Entidades: Cliente; Responsável; Pedido e Ordem de Serviço.
+
+Relacionamentos: Solicita; Analisa; Executa; Arquiva.
+
+
+
+
+
+* Universidade
+
+* Ecommerce
+
+
